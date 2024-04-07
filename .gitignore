@@ -27,6 +27,8 @@ hs_err_pid*
 target
 build
 out
+.gradle
+/buildSrc/.gradle/
 
 #Idea
 *.iml
